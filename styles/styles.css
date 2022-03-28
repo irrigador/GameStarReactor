@@ -35,13 +35,13 @@ h1 {
 
 .btns h1 {
   cursor: pointer;
-  color: #00c000;
+  color: #EE0000;
   animation: pisca 2s infinite;
   font-weight: 800;
 }
 
 .btns h1:hover {
-  color: #032a03;
+  color: #8B0000;
 }
 
 @keyframes pisca {
